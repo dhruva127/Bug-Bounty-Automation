@@ -80,3 +80,6 @@ Run the script against a target domain:
 ./auto-recon.sh example.com
 ```
 
+## 🛡 Legal & Ethical
+This tool is provided for educational and authorized security testing only. Do not use it on systems you do not own or have explicit permission to test.
+
